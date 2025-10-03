@@ -1,5 +1,16 @@
 # @medusajs/admin-bundler
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13634](https://github.com/medusajs/medusa/pull/13634) [`ea3d0100a9d4994f15e901f518a45390d596bebf`](https://github.com/medusajs/medusa/commit/ea3d0100a9d4994f15e901f518a45390d596bebf) Thanks [@leobenzol](https://github.com/leobenzol)! - feat(admin-bundler): forward env vars to plugin admin extensions
+
+- Updated dependencies [[`294c37564ca035dc9b658bdce1f6afb4ced3d916`](https://github.com/medusajs/medusa/commit/294c37564ca035dc9b658bdce1f6afb4ced3d916), [`9538df2eaff8a30604291eda8f46b4ea87eb1ca9`](https://github.com/medusajs/medusa/commit/9538df2eaff8a30604291eda8f46b4ea87eb1ca9), [`d30806533c181be39b97b0321a44390cd31acd3c`](https://github.com/medusajs/medusa/commit/d30806533c181be39b97b0321a44390cd31acd3c), [`6e806942c7961eeb1d80abca0f9b4bf2e663f6b3`](https://github.com/medusajs/medusa/commit/6e806942c7961eeb1d80abca0f9b4bf2e663f6b3), [`c3ae529b40368eddb3265de9cf4a6f54e15d16d7`](https://github.com/medusajs/medusa/commit/c3ae529b40368eddb3265de9cf4a6f54e15d16d7), [`5e827ec95d0f721e62c0d4e8c603bda7ddc0929c`](https://github.com/medusajs/medusa/commit/5e827ec95d0f721e62c0d4e8c603bda7ddc0929c), [`a75cf7fb36cf1858c6c9bda1126b092e923beff6`](https://github.com/medusajs/medusa/commit/a75cf7fb36cf1858c6c9bda1126b092e923beff6), [`55f89b2151cbdd506f91be5e08451c954caaf1fc`](https://github.com/medusajs/medusa/commit/55f89b2151cbdd506f91be5e08451c954caaf1fc), [`7af9e3224cab141bf8c8283032cb508122a0f740`](https://github.com/medusajs/medusa/commit/7af9e3224cab141bf8c8283032cb508122a0f740), [`edf29b3bd22de1a0f6a7e4eb8715641cd17b7956`](https://github.com/medusajs/medusa/commit/edf29b3bd22de1a0f6a7e4eb8715641cd17b7956), [`10787c865f04f231cd3d5b9709c417b1fd2e2130`](https://github.com/medusajs/medusa/commit/10787c865f04f231cd3d5b9709c417b1fd2e2130)]:
+  - @medusajs/dashboard@2.10.4
+  - @medusajs/admin-shared@2.10.4
+  - @medusajs/admin-vite-plugin@2.10.4
+
 ## 2.10.3
 
 ### Patch Changes

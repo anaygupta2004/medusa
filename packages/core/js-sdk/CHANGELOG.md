@@ -1,5 +1,13 @@
 # @medusajs/js-sdk
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13581](https://github.com/medusajs/medusa/pull/13581) [`6a91f79f443ff72cba8ee7612a1e1c681af125ec`](https://github.com/medusajs/medusa/commit/6a91f79f443ff72cba8ee7612a1e1c681af125ec) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(js-sdk): allow passing a query parameter to deleteLineItem
+
+- [#13575](https://github.com/medusajs/medusa/pull/13575) [`5e827ec95d0f721e62c0d4e8c603bda7ddc0929c`](https://github.com/medusajs/medusa/commit/5e827ec95d0f721e62c0d4e8c603bda7ddc0929c) Thanks [@willbouch](https://github.com/willbouch)! - feat(admin-shared,dashboard,js-sdk,types,payment): refund reasons in dashboard
+
 ## 2.10.3
 
 ### Patch Changes

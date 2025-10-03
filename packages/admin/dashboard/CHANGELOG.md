@@ -1,5 +1,37 @@
 # @medusajs/dashboard
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13404](https://github.com/medusajs/medusa/pull/13404) [`294c37564ca035dc9b658bdce1f6afb4ced3d916`](https://github.com/medusajs/medusa/commit/294c37564ca035dc9b658bdce1f6afb4ced3d916) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): add campaign without currency to promotion
+
+- [#13596](https://github.com/medusajs/medusa/pull/13596) [`9538df2eaff8a30604291eda8f46b4ea87eb1ca9`](https://github.com/medusajs/medusa/commit/9538df2eaff8a30604291eda8f46b4ea87eb1ca9) Thanks [@bqst](https://github.com/bqst)! - fix(dashboard): copy phone on order customer info
+
+- [#13631](https://github.com/medusajs/medusa/pull/13631) [`d30806533c181be39b97b0321a44390cd31acd3c`](https://github.com/medusajs/medusa/commit/d30806533c181be39b97b0321a44390cd31acd3c) Thanks [@willbouch](https://github.com/willbouch)! - fix(dashboard): create refund form broken when no payment id defined
+
+- [#13578](https://github.com/medusajs/medusa/pull/13578) [`6e806942c7961eeb1d80abca0f9b4bf2e663f6b3`](https://github.com/medusajs/medusa/commit/6e806942c7961eeb1d80abca0f9b4bf2e663f6b3) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard, order): set return status on cancel
+
+- [#13592](https://github.com/medusajs/medusa/pull/13592) [`c3ae529b40368eddb3265de9cf4a6f54e15d16d7`](https://github.com/medusajs/medusa/commit/c3ae529b40368eddb3265de9cf4a6f54e15d16d7) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): payment providers select
+
+- [#13575](https://github.com/medusajs/medusa/pull/13575) [`5e827ec95d0f721e62c0d4e8c603bda7ddc0929c`](https://github.com/medusajs/medusa/commit/5e827ec95d0f721e62c0d4e8c603bda7ddc0929c) Thanks [@willbouch](https://github.com/willbouch)! - feat(admin-shared,dashboard,js-sdk,types,payment): refund reasons in dashboard
+
+- [#11252](https://github.com/medusajs/medusa/pull/11252) [`a75cf7fb36cf1858c6c9bda1126b092e923beff6`](https://github.com/medusajs/medusa/commit/a75cf7fb36cf1858c6c9bda1126b092e923beff6) Thanks [@MEClouds](https://github.com/MEClouds)! - feat(dashboard): support RTL in dashboard
+
+- [#13565](https://github.com/medusajs/medusa/pull/13565) [`55f89b2151cbdd506f91be5e08451c954caaf1fc`](https://github.com/medusajs/medusa/commit/55f89b2151cbdd506f91be5e08451c954caaf1fc) Thanks [@docloulou](https://github.com/docloulou)! - fix(dashboard): add offset and limit to query parameters in useTableConfiguration
+
+- [#13589](https://github.com/medusajs/medusa/pull/13589) [`7af9e3224cab141bf8c8283032cb508122a0f740`](https://github.com/medusajs/medusa/commit/7af9e3224cab141bf8c8283032cb508122a0f740) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): improve inventory level location management
+
+- [#13587](https://github.com/medusajs/medusa/pull/13587) [`edf29b3bd22de1a0f6a7e4eb8715641cd17b7956`](https://github.com/medusajs/medusa/commit/edf29b3bd22de1a0f6a7e4eb8715641cd17b7956) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard): select refund reason in refund form
+
+- [#13571](https://github.com/medusajs/medusa/pull/13571) [`10787c865f04f231cd3d5b9709c417b1fd2e2130`](https://github.com/medusajs/medusa/commit/10787c865f04f231cd3d5b9709c417b1fd2e2130) Thanks [@fPolic](https://github.com/fPolic)! - feat(dashboard): refactor location list UI to use data table
+
+- Updated dependencies [[`6a91f79f443ff72cba8ee7612a1e1c681af125ec`](https://github.com/medusajs/medusa/commit/6a91f79f443ff72cba8ee7612a1e1c681af125ec), [`5e827ec95d0f721e62c0d4e8c603bda7ddc0929c`](https://github.com/medusajs/medusa/commit/5e827ec95d0f721e62c0d4e8c603bda7ddc0929c)]:
+  - @medusajs/js-sdk@2.10.4
+  - @medusajs/admin-shared@2.10.4
+  - @medusajs/icons@2.10.4
+  - @medusajs/ui@4.0.24
+
 ## 2.10.3
 
 ### Patch Changes

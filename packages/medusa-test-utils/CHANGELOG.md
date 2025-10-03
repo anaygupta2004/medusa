@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13439](https://github.com/medusajs/medusa/pull/13439) [`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Move peer deps into a single package and re export from framework
+
+- [#13038](https://github.com/medusajs/medusa/pull/13038) [`295f6be146dff6650216259bdf3e64165e5e3691`](https://github.com/medusajs/medusa/commit/295f6be146dff6650216259bdf3e64165e5e3691) Thanks [@trevster344](https://github.com/trevster344)! - fix-medusa-test-runner-premature-teardown
+
+- [#13628](https://github.com/medusajs/medusa/pull/13628) [`70d855bd1be0ab654ff319d3780469e0c8a0fe36`](https://github.com/medusajs/medusa/commit/70d855bd1be0ab654ff319d3780469e0c8a0fe36) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(): Module test runner lifecycle does not shutdown properly
+
+- [#13546](https://github.com/medusajs/medusa/pull/13546) [`1fd439e321d8284ab7218333ab83125af66afb02`](https://github.com/medusajs/medusa/commit/1fd439e321d8284ab7218333ab83125af66afb02) Thanks [@willbouch](https://github.com/willbouch)! - fix(medusa-test-utils): add health endpoint in test server
+
+- [#13450](https://github.com/medusajs/medusa/pull/13450) [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Upgrade mikro orm 6.5.4
+
+- Updated dependencies [[`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536), [`76aa4a48b3cbec519ab16c96cc87ee3288de28de`](https://github.com/medusajs/medusa/commit/76aa4a48b3cbec519ab16c96cc87ee3288de28de), [`5c77b10fa64d28c315e5196da1c9608c1c0a2ab7`](https://github.com/medusajs/medusa/commit/5c77b10fa64d28c315e5196da1c9608c1c0a2ab7), [`9d8ed70130867466f81834adf13b7b60bdfc0b6a`](https://github.com/medusajs/medusa/commit/9d8ed70130867466f81834adf13b7b60bdfc0b6a), [`730d73306d699634121a793f2b4049fd3e09bc47`](https://github.com/medusajs/medusa/commit/730d73306d699634121a793f2b4049fd3e09bc47), [`b9d6f73320c36c53235b12fb8397b30a448917f0`](https://github.com/medusajs/medusa/commit/b9d6f73320c36c53235b12fb8397b30a448917f0), [`71014bafa6942709d4b763cbc82dc7f6d4860ba6`](https://github.com/medusajs/medusa/commit/71014bafa6942709d4b763cbc82dc7f6d4860ba6), [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186), [`bb08edd41fd954306b0feacf6a6a69b87d9287dd`](https://github.com/medusajs/medusa/commit/bb08edd41fd954306b0feacf6a6a69b87d9287dd), [`907fbc89a2566f516c65a4eefdfeeb4f9dcb3579`](https://github.com/medusajs/medusa/commit/907fbc89a2566f516c65a4eefdfeeb4f9dcb3579), [`458dd04bbf70159ec42254e91675c7a1f1d344d8`](https://github.com/medusajs/medusa/commit/458dd04bbf70159ec42254e91675c7a1f1d344d8), [`3960c80e9f55bdf41f9f257e12ed72c713577598`](https://github.com/medusajs/medusa/commit/3960c80e9f55bdf41f9f257e12ed72c713577598), [`92d30b28f45b4037cd73c180c8f257070cf49bd4`](https://github.com/medusajs/medusa/commit/92d30b28f45b4037cd73c180c8f257070cf49bd4), [`02b6d013822b9665f868c4ea6d1b5cfe58723459`](https://github.com/medusajs/medusa/commit/02b6d013822b9665f868c4ea6d1b5cfe58723459), [`9d3c71fefd12d09ecd3be1aeff7744e809872481`](https://github.com/medusajs/medusa/commit/9d3c71fefd12d09ecd3be1aeff7744e809872481)]:
+  - @medusajs/framework@2.10.4
+  - @medusajs/medusa@2.10.4
+
 ## 2.10.3
 
 ### Patch Changes

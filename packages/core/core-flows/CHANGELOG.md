@@ -1,5 +1,34 @@
 # @medusajs/core-flows
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13439](https://github.com/medusajs/medusa/pull/13439) [`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Move peer deps into a single package and re export from framework
+
+- [#13182](https://github.com/medusajs/medusa/pull/13182) [`9c957e1da04c1f86d1caa7de279993453b76bb63`](https://github.com/medusajs/medusa/commit/9c957e1da04c1f86d1caa7de279993453b76bb63) Thanks [@leobenzol](https://github.com/leobenzol)! - chore(core-flows): only allow published products in addToCartWorkflow
+
+- [#13594](https://github.com/medusajs/medusa/pull/13594) [`1b57e5c58ab5c656da398b69444c2b9baba2e35e`](https://github.com/medusajs/medusa/commit/1b57e5c58ab5c656da398b69444c2b9baba2e35e) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - fix(core-flows): skip locking on sub workflows by default
+
+- [#13645](https://github.com/medusajs/medusa/pull/13645) [`76aa4a48b3cbec519ab16c96cc87ee3288de28de`](https://github.com/medusajs/medusa/commit/76aa4a48b3cbec519ab16c96cc87ee3288de28de) Thanks [@adrien2p](https://github.com/adrien2p)! - Fix/workflows concurrency
+
+- [#13435](https://github.com/medusajs/medusa/pull/13435) [`b9d6f73320c36c53235b12fb8397b30a448917f0`](https://github.com/medusajs/medusa/commit/b9d6f73320c36c53235b12fb8397b30a448917f0) Thanks [@adrien2p](https://github.com/adrien2p)! - Feat(): distributed caching
+
+- [#13668](https://github.com/medusajs/medusa/pull/13668) [`8acfb88c2b627ba6ba4a2827bcb78c3bb74c22f8`](https://github.com/medusajs/medusa/commit/8acfb88c2b627ba6ba4a2827bcb78c3bb74c22f8) Thanks [@willbouch](https://github.com/willbouch)! - fix(core-flows): lock draft order workflows
+
+- [#13598](https://github.com/medusajs/medusa/pull/13598) [`087887fefb948e6676001ad2dc2cb265ae6f7430`](https://github.com/medusajs/medusa/commit/087887fefb948e6676001ad2dc2cb265ae6f7430) Thanks [@willbouch](https://github.com/willbouch)! - feat(core-flows): support ad hoc returns
+
+- [#13450](https://github.com/medusajs/medusa/pull/13450) [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Upgrade mikro orm 6.5.4
+
+- [#13649](https://github.com/medusajs/medusa/pull/13649) [`bb08edd41fd954306b0feacf6a6a69b87d9287dd`](https://github.com/medusajs/medusa/commit/bb08edd41fd954306b0feacf6a6a69b87d9287dd) Thanks [@willbouch](https://github.com/willbouch)! - fix(medusa,file-local,file-s3,core-flows): fix csv parsing special characters
+
+- [#13511](https://github.com/medusajs/medusa/pull/13511) [`5ea32aaa44a47b143c46f895032478334b7379ca`](https://github.com/medusajs/medusa/commit/5ea32aaa44a47b143c46f895032478334b7379ca) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(): Cart workflow price calculation for different items but same variant
+
+- [#13527](https://github.com/medusajs/medusa/pull/13527) [`458dd04bbf70159ec42254e91675c7a1f1d344d8`](https://github.com/medusajs/medusa/commit/458dd04bbf70159ec42254e91675c7a1f1d344d8) Thanks [@leobenzol](https://github.com/leobenzol)! - fix(core-flows,types,medusa): pass /store/shipping-options fields to workflow
+
+- Updated dependencies [[`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536), [`b9d6f73320c36c53235b12fb8397b30a448917f0`](https://github.com/medusajs/medusa/commit/b9d6f73320c36c53235b12fb8397b30a448917f0), [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186), [`92d30b28f45b4037cd73c180c8f257070cf49bd4`](https://github.com/medusajs/medusa/commit/92d30b28f45b4037cd73c180c8f257070cf49bd4), [`02b6d013822b9665f868c4ea6d1b5cfe58723459`](https://github.com/medusajs/medusa/commit/02b6d013822b9665f868c4ea6d1b5cfe58723459)]:
+  - @medusajs/framework@2.10.4
+
 ## 2.10.3
 
 ### Patch Changes
